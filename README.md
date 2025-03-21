@@ -1,1 +1,1 @@
-# TwoGoodCo-Clone
+# Two-Good-Co
